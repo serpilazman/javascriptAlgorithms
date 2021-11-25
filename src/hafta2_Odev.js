@@ -12,7 +12,7 @@ function sendNumbers(...numbers){
             console.log(element +' bir Asal Sayı');
         }
         else{
-            console.log(element +' bir Asal Sayı Değil');
+             console.log(element +' bir Asal Sayı Değil');
         }
 
     });
