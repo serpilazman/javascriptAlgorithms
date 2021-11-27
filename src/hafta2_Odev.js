@@ -1,4 +1,4 @@
-//Asal Sayı Bulma
+//Asal Sayı Bulmaaa
 
 sendNumbers(20,13,14,17,21,23);
 
