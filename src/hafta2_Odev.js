@@ -9,9 +9,10 @@ function sendNumbers(...numbers){
     numbers.forEach(function(element){
     const isPrime= checkPrime(element);
         if(isPrime){
-            console.log(element +' bir Asal Sayı');
+            console.log(element +' bir Asal Sayıı');
         }
         else{
+
         console.log(element +' bir Asal Sayı Değil');
         }
 
